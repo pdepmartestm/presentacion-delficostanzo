@@ -3,7 +3,7 @@
 
 Acá les dejo mi foto para que me conozcan un poco:
 
-! 
+<img src="foto.jpg" alt=""> 
 
 Y ahora les voy a contar un poquito de mi. Mi nombre es Delfina Maria Costanzo Papadopulos y ya se lo que deben estar pensando, tengo el nombre mas largo del mundo. Seguramente el mas largo de la facultad(chequeado). Tengo 21 años y vivo en Coghlan con mi mama y mi hermana y tengo 4 mascotas hermosas <3 (3 gatos y un perro). En cuanto a mis gustos, me encanta hacer ejercicio, juntarme/salir con mis amigos, mirar series/películas, entre otras cosas. Me resulta re difícil elegir una película favorita pero el puesto esta peleado entre *las películas de Marvel* y *La isla siniestra*. Y mi serie favorita es *Friends*.
 
